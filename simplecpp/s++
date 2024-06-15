@@ -1,0 +1,1 @@
+g++ $@ -Wall /d/TCODE/C++/Complex_Circuit_Analyzer/simplecpp/simplecpp/lib/libsprite.a
